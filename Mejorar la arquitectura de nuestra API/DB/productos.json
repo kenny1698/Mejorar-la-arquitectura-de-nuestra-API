@@ -1,0 +1,17 @@
+[
+  {
+    "title": "TV",
+    "price": "100",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "Mesa",
+    "price": "100",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "Silla",
+    "price": "20",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  }
+]
